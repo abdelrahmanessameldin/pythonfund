@@ -41,3 +41,5 @@ while user_input != "exit" :
         result = validate_and_execute(num_of_days_element)
         '''   results.append(result)'''
         print(result)
+
+## test comment ##
